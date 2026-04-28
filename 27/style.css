@@ -1,0 +1,82 @@
+h1{
+    color:gold ;
+    font-size:xx-large ;
+    font-family:cursive  ; 
+    text-align:center  ;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:yellow ;
+    font-size:larger ;
+    text-align:center  ;
+}
+
+body{
+    background:rgb(184, 5, 41) ;
+}
+
+    
+/* This code will make your items flow responsively */
+
+.callout-item {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.callout-info{
+    
+    display: flex;
+    margin: auto;
+    position: relative;
+
+}
+ p2{
+    font-family :monospace;
+    font-size: 15pt;
+    color:gold;
+    text-align: center;
+}
+
+h2{
+    color:darkred;
+    font-size: 30pt;
+    font-family:cursive, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-align: center;
+}
+   
+* {
+    /* Change the 1 to a 0 to hide the light blue guides */
+    outline: 0px solid lightblue !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* End of responsive flow code */
+
+.callout-item {
+    /* This will style the entire item box */
+    margin-bottom: 20px;
+    background-color:#ca0c0c;
+}
+
+.callout-title {
+    /* This will style the title of the item box */
+    color:gold;
+}
+
+.callout-poster{
+    /* This will style the image inside the item box */
+    max-width: 300px;
+}
+
+.callout-description{
+    /* This will style the right-hand-side of the item box */
+    padding: 10px;
+} 
