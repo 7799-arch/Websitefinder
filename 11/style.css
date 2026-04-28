@@ -1,0 +1,227 @@
+h1{
+    color:darkolivegreen ;
+    font-size:5vmax ;
+    font-family:'Times New Roman', Times, serif  ;   
+    font-family:'Times New Roman', Times, serif  ; 
+    text-align:center  ;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:olivedrab ;
+    font-size:2vmax ;
+    text-align:center  ;
+}
+
+body{
+    background:darkseagreen ;
+}
+
+
+/* This code will make your items flow responsively */
+
+.callout-item {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.callout-info{
+
+    display: flex;
+    margin: auto;
+    position: relative;
+
+}
+p2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    color: #ffffff;
+    text-align: center;
+}
+
+h2{
+    color: #ffffff;
+    font-size: 30pt;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+   
+* {
+    /* Change the 1 to a 0 to hide the light blue guides */
+    outline: 0px solid lightblue !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* End of responsive flow code */
+
+.callout-item {
+    /* This will style the entire item box */
+    margin-bottom: 20px;
+    background-color:#052512;
+}
+
+.callout-title {
+    /* This will style the title of the item box */
+    color:rgb(75, 131, 92);
+}
+
+.callout-poster{
+    /* This will style the image inside the item box */
+    max-width: 300px;
+}
+
+.callout-description{
+    /* This will style the right-hand-side of the item box */
+    padding: 10px;
+}
+p2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+    color: #6ba36b;
+    text-align: center;
+}
+
+h2{
+    color: #ffffff;
+    font-size: 30pt;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+   
+* {
+    /* Change the 1 to a 0 to hide the light blue guides */
+    outline: 0px solid rgb(255, 255, 255) !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* End of responsive flow code */
+
+.callout-item {
+    /* This will style the entire item box */
+    margin-bottom: 20px;
+    background-color:#FB7AFF;
+}
+
+.callout-title {
+    /* This will style the title of the item box */
+    color:rgb(104, 126, 110);
+}
+
+.callout-poster{
+    /* This will style the image inside the item box */
+    max-width: 300px;
+}
+
+.callout-description{
+    /* This will style the right-hand-side of the item box */
+    padding: 10px;
+}
+p2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+    color: #70cc78;
+    text-align: center;
+}
+
+h2{
+    color: #35472f;
+    font-size: 30pt;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+   
+* {
+    /* Change the 1 to a 0 to hide the light blue guides */
+    outline: 0px solid lightblue !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* End of responsive flow code */
+
+.callout-item {
+    /* This will style the entire item box */
+    margin-bottom: 20px;
+    background-color:#2b4b26;
+}
+
+.callout-title {
+    /* This will style the title of the item box */
+    color:rgb(255, 255, 255);
+}
+
+.callout-poster{
+    /* This will style the image inside the item box */
+    max-width: 300px;
+}
+
+.callout-description{
+    /* This will style the right-hand-side of the item box */
+    padding: 10px;
+}
+p2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+    color: #99d39d;
+    text-align: center;
+}
+
+h2{
+    color: #FB7AFF;
+    font-size: 30pt;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+   
+* {
+    /* Change the 1 to a 0 to hide the light blue guides */
+    outline: 0px solid rgb(255, 255, 255) !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* End of responsive flow code */
+
+.callout-item {
+    /* This will style the entire item box */
+    margin-bottom: 20px;
+    background-color:#325e3d;
+}
+
+.callout-title {
+    /* This will style the title of the item box */
+    color:rgb(255, 255, 255);
+}
+
+.callout-poster{
+    /* This will style the image inside the item box */
+    max-width: 300px;
+}
+
+.callout-description{
+    /* This will style the right-hand-side of the item box */
+    padding: 10px;
+}

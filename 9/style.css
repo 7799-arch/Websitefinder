@@ -1,0 +1,35 @@
+h1{
+    color:darkblue ;
+    font-size:xx-large ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ; 
+    text-align:center  ;
+}
+
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    font-size: x-large;
+    text-align: center;
+}
+
+body {
+    background: bisque;
+}
+
+
+/* This code will make your items flow responsively */
+
+.callout-item {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.callout-info {
+
+    display: flex;
+    margin: auto;
+    position: relative;
+
+}
